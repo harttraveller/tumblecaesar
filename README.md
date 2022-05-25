@@ -3,7 +3,7 @@
 
 
 ## Resources
-- [Blog post relating to the challenge](https://www.harttraveller.com/Tumbler+Challenge)
+- [Blog post relating to the challenge](https://www.harttraveller.com/content/Tumbler+Challenge)
 - Clues might be posted in [Discord Server](https://discord.gg/ZDerehP6)
 - Prize value can be viewed at [Public Wallet Address](https://algoexplorer.io/address/ZUECZQ67NIJNXED4V5HRZNGTQDHWHRW4SIBTOLRXDGHAZSTNGUDWVYWBYU)
 
