@@ -1,6 +1,17 @@
 # tumblecaesar
 
-The original blog post relating to the challenge can be found by [clicking here](https://www.harttraveller.com/Tumbler+Challenge)
+
+
+## Resources
+- [Blog post relating to the challenge](https://www.harttraveller.com/Tumbler+Challenge)
+- Clues might be posted in [Discord Server](https://discord.gg/ZDerehP6)
+- Prize value can be viewed at [Public Wallet Address](https://algoexplorer.io/address/ZUECZQ67NIJNXED4V5HRZNGTQDHWHRW4SIBTOLRXDGHAZSTNGUDWVYWBYU)
+
+Encoded wallet recovery phrase:
+
+```
+1zRiobx1tPhvqv32IoLAl7857cQYzKcIhNIPzJaQGpnJqFj6x7HTzIghdbvtrS7UOe1ts1bsZIxNCrMKOJER6KiO0FI0Nurf8z4yhmfj3shMUyIC0Vm2w18Si34HCD3qaax7aaCmc1MBeGcdem2idsuBtWikjSAqYwwSylJjyMAWUve-335475
+```
 
 ## Installation
 
